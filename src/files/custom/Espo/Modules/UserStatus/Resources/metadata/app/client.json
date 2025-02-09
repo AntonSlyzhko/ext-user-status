@@ -1,0 +1,6 @@
+{
+  "scriptList": [
+      "__APPEND__",
+      "client/custom/modules/user-status/lib/init.js"
+  ]
+}

@@ -1,14 +1,14 @@
 {
-    "module": "{@name}",
-    "name": "{@nameLabel}",
-    "description": "{@description}",
-    "author": "{@author}",
-    "bundled": {@bundled},
+    "module": "UserStatus",
+    "name": "User Status",
+    "description": "Introduces a new 'status' field to the User entity and provides a convenient method for logged-in users to update their own status.",
+    "author": "Anton Slyzhko",
+    "bundled": true,
     "acceptableVersions": [
-        ">=7.3.0"
+        ">=9.0.0"
     ],
     "php": [
-        ">=7.2"
+        ">=8.2"
     ],
     "scripts": []
 }
