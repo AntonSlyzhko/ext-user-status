@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "usStatus": {
+            "type": "enum",
+            "options": ["On-site", "Business trip", "Vacation", "Sick"],
+            "default": "On-site",
+            "style": {
+                "On-site": "primary",
+                "Business trip": "warning",
+                "Vacation": "success",
+                "Sick": "danger"
+            },
+            "displayAsLabel": true,
+            "labelType": "state",
+            "audited": true,
+            "customizationOptionsReferenceDisabled": true,
+            "customizationReadOnlyAfterCreateDisabled": true
+        }
+    }
+}

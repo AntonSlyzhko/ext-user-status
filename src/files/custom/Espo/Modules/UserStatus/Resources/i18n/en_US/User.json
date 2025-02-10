@@ -1,0 +1,17 @@
+{
+    "fields": {
+        "usStatus": "Status"
+    },
+    "options": {
+        "usStatus": {
+            "On-site": "On-site",
+            "Business trip": "On business trip",
+            "Vacation": "On vacation",
+            "Sick": "Sick"
+        }
+    },
+    "messages": {
+        "usSetStatus": "Set status",
+        "usNewStatusSet": "New status is set ***'{status}'***"
+    }
+}

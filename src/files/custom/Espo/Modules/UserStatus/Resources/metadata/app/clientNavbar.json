@@ -1,0 +1,16 @@
+{
+    "menuItems": {
+        "usStatus": {
+            "order": 0,
+            "groupIndex": 1,
+            "labelTranslation": "User.fields.usStatus",
+            "handler": "user-status:handlers/navbar-status",
+            "actionFunction": "changeStatus",
+            "accessDataList": [
+                {
+                    "inPortalDisabled": true
+                }
+            ]
+        }
+    }
+}

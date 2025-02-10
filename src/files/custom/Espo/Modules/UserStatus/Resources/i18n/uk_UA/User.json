@@ -1,0 +1,17 @@
+{
+    "fields": {
+        "usStatus": "Статус"
+    },
+    "options": {
+        "usStatus": {
+            "On-site": "На місці",
+            "Business trip": "У відрядженні",
+            "Vacation": "У відпустці",
+            "Sick": "На лікарняному"
+        }
+    },
+    "messages": {
+        "usSetStatus": "Встановити статус",
+        "usNewStatusSet": "Встановлено новий статус ***'{status}'***"
+    }
+}
