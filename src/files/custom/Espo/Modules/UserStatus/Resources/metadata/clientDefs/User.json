@@ -1,0 +1,12 @@
+{
+    "defaultSidePanelFieldLists": {
+        "detail": [
+            "__APPEND__",
+            "usStatus"
+        ],
+        "detailSmall": [
+            "__APPEND__",
+            "usStatus"
+        ]
+    }
+}
