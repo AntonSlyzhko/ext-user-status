@@ -4,7 +4,8 @@
     },
     "options": {
         "usStatus": {
-            "On-site": "On-site",
+            "On-site": "In office",
+            "Remote": "Remote",
             "Business trip": "On business trip",
             "Vacation": "On vacation",
             "Sick": "Sick"

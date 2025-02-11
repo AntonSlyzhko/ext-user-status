@@ -4,7 +4,8 @@
     },
     "options": {
         "usStatus": {
-            "On-site": "На місці",
+            "On-site": "В офісі",
+            "Remote": "Віддалено",
             "Business trip": "У відрядженні",
             "Vacation": "У відпустці",
             "Sick": "На лікарняному"
